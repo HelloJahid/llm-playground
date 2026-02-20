@@ -13,3 +13,6 @@ A practical collection of small, focused exercises for learning and applying lar
 - `01_ollama/`  
   Using Local LLM
 
+- `09_AgenticAI/`  
+  Agentic AI Simple Demo Project
+
