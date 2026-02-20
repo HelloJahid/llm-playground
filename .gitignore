@@ -131,4 +131,5 @@ env.bak/
 venv.bak/
 llms/
 llms.bak/
-
+uv.lock
+.gitignore
