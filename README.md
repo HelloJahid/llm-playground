@@ -19,3 +19,5 @@ A practical collection of small, focused exercises for learning and applying lar
 - `09_AgenticAI/`  
   Agentic AI Simple Demo Project
 
+- `sample_project/`  
+  Sample LLM Project
