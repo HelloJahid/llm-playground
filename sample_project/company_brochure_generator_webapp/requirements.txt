@@ -1,0 +1,20 @@
+# ---------------------------------------------------------------------------
+# Company Brochure Generator — Python dependencies
+# ---------------------------------------------------------------------------
+
+# Web UI
+streamlit>=1.35.0
+
+# HTTP requests (scraping + Ollama client)
+requests>=2.31.0
+
+# HTML parsing
+beautifulsoup4>=4.12.0
+lxml>=5.0.0          # fast HTML/XML parser backend for BeautifulSoup
+
+# ---------------------------------------------------------------------------
+# Optional — PDF export
+# Uncomment the line below (and run pip install again) to enable the
+# "Download as PDF" button in the Streamlit app.
+# ---------------------------------------------------------------------------
+# reportlab>=4.1.0
