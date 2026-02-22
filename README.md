@@ -13,7 +13,7 @@ A practical collection of small, focused exercises for learning and applying lar
 - `01_ollama/`  
   Using Local LLM
 
-- `01_ollama/`  
+- `02_openaAI/`  
   ChatGPT and all
 
 - `09_AgenticAI/`  
@@ -21,3 +21,12 @@ A practical collection of small, focused exercises for learning and applying lar
 
 - `sample_project/`  
   Sample LLM Project
+
+
+
+
+  ## Acknowledgements
+
+This repository is inspired by, and in places adapted from, Ed Donner’s `llm_engineering` materials. Where code or text has been directly reused or closely modified, the original licence and notices are retained in the relevant files.
+
+Upstream reference: `https://github.com/ed-donner/llm_engineering` (MIT License).
